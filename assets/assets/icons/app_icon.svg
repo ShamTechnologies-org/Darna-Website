@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#2196F3"/>
+  
+  <!-- House shape -->
+  <path d="M256,80 L456,280 H376V432 H136V280 H56L256,80Z" 
+        fill="white" 
+        stroke="#1565C0" 
+        stroke-width="16"/>
+  
+  <!-- Door -->
+  <rect x="216" y="280" width="80" height="152" rx="8" fill="#1565C0"/>
+  
+  <!-- Windows -->
+  <rect x="176" y="200" width="60" height="60" rx="8" fill="#1565C0"/>
+  <rect x="276" y="200" width="60" height="60" rx="8" fill="#1565C0"/>
+  
+  <!-- Arabic Darna text -->
+  <text x="256" y="480" 
+        font-family="Arial" 
+        font-size="48" 
+        text-anchor="middle" 
+        fill="white"
+        font-weight="bold">دارنا</text>
+</svg> 

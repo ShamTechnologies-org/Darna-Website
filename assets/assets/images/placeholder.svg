@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F5F5F5"/>
+  
+  <!-- House Icon -->
+  <path d="M200 100L300 200H260V260H140V200H100L200 100Z" 
+        fill="#E0E0E0" 
+        stroke="#BDBDBD" 
+        stroke-width="8"/>
+  
+  <!-- Text -->
+  <text x="200" y="160" 
+        font-family="Arial" 
+        font-size="24" 
+        text-anchor="middle" 
+        fill="#9E9E9E">No Image Available</text>
+  
+  <!-- Arabic Text -->
+  <text x="200" y="190" 
+        font-family="Cairo" 
+        font-size="24" 
+        text-anchor="middle" 
+        fill="#9E9E9E">لا تتوفر صورة</text>
+</svg> 

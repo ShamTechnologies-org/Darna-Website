@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "دارنا",
+    "welcome": "مرحباً بكم في دارنا"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج",
+    "register": "تسجيل"
+  },
+  "actions": {
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "offer": "عرض عقار"
+  },
+  "property": {
+    "types": {
+      "apartment": "شقة",
+      "villa": "فيلا",
+      "house": "منزل",
+      "office": "مكتب",
+      "land": "أرض"
+    },
+    "features": {
+      "bedrooms": "غرف النوم",
+      "bathrooms": "الحمامات",
+      "area": "المساحة",
+      "price": "السعر"
+    },
+    "locations": {
+      "downtown": "وسط المدينة",
+      "suburbs": "الضواحي",
+      "north": "شمال",
+      "south": "جنوب",
+      "east": "شرق",
+      "west": "غرب"
+    }
+  },
+  "errors": {
+    "noImage": "لا تتوفر صورة",
+    "loadFailed": "فشل التحميل",
+    "networkError": "خطأ في الشبكة",
+    "tryAgain": "يرجى المحاولة مرة أخرى"
+  }
+} 

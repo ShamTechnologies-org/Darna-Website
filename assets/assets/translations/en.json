@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "Darna",
+    "welcome": "Welcome to Darna"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "register": "Register"
+  },
+  "actions": {
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "offer": "Offer Property"
+  },
+  "property": {
+    "types": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "house": "House",
+      "office": "Office",
+      "land": "Land"
+    },
+    "features": {
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "area": "Area",
+      "price": "Price"
+    },
+    "locations": {
+      "downtown": "Downtown",
+      "suburbs": "Suburbs",
+      "north": "North",
+      "south": "South",
+      "east": "East",
+      "west": "West"
+    }
+  },
+  "errors": {
+    "noImage": "No Image Available",
+    "loadFailed": "Failed to load",
+    "networkError": "Network error",
+    "tryAgain": "Please try again"
+  }
+} 

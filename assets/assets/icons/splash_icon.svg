@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  
+  <!-- House shape with animation -->
+  <g transform="translate(256, 256)">
+    <path d="M-200,-176 L0,-376 L200,-176 H120V-24 H-120V-176 H-200Z" 
+          fill="#2196F3" 
+          stroke="#1565C0" 
+          stroke-width="16"/>
+    
+    <!-- Door -->
+    <rect x="-40" y="-176" width="80" height="152" rx="8" fill="#1565C0"/>
+    
+    <!-- Windows -->
+    <rect x="-80" y="-256" width="60" height="60" rx="8" fill="#1565C0"/>
+    <rect x="20" y="-256" width="60" height="60" rx="8" fill="#1565C0"/>
+  </g>
+  
+  <!-- App name -->
+  <text x="256" y="400" 
+        font-family="Arial" 
+        font-size="72" 
+        text-anchor="middle" 
+        fill="#2196F3"
+        font-weight="bold">DARNA</text>
+  
+  <!-- Arabic name -->
+  <text x="256" y="480" 
+        font-family="Arial" 
+        font-size="48" 
+        text-anchor="middle" 
+        fill="#1565C0"
+        font-weight="bold">دارنا</text>
+</svg> 
